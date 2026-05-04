@@ -39,10 +39,69 @@ https://archive.ics.uci.edu/dataset/1/abalone
 
 ---
 
-## Certificate
-This repository also includes a certificate for completing the **NVIDIA: Fundamentals of Deep Learning** course authorized by Whizlabs and offered through Coursera.
+## Assignment 5 – Steel Surface Defect Classification  
+A deep learning model is implemented to classify **surface defects in hot-rolled steel strips** using grayscale images.
+
+**Dataset:**  
+https://www.kaggle.com/datasets/sukubhardwikh/neu-surface-defect-database  
+
+**Models Used:**  
+**ResNet50, InceptionV3 (Google Inception), EfficientNet**
 
 ---
+
+## Assignment 6 – Electrical Consumption Forecasting  
+Deep learning models are implemented to forecast **electrical consumption for the next 10 years** using time series data.
+
+**Dataset:**  
+https://www.kaggle.com/code/nageshsingh/predict-electricity-consumption  
+
+**Models Used:**  
+**RNN, LSTM, GRU, Vision Transformer**
+
+---
+
+## Assignment 7 – Image Super Resolution  
+A GAN-based approach is implemented to enhance **low-resolution images into high-resolution images**.
+
+**Dataset:**  
+https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution  
+
+**Models Used:**  
+**GAN, SRGAN, ESRGAN**
+
+---
+
+## Certifications
+
+A collection of certifications completed in the field of **Artificial Intelligence, Deep Learning, and Generative AI**.
+
+### Fundamentals of Deep Learning  
+Covers **core deep learning concepts, neural networks, and model training techniques**.
+
+**Certificate:**  
+Certificate_Fundamentals_Deep_Learning.pdf  
+
+---
+
+
+### Generative AI – Introduction and Applications  
+Focuses on **basics of Generative AI and its real-world applications**.
+
+**Certificate:**  
+Certificate_Generative_AI_Introduction_and_Application.pdf  
+
+---
+
+### Generative AI – Foundation Models and Platforms  
+Covers concepts of **foundation models, large language models, and AI platforms**.
+
+**Certificate:**  
+Certificate_Generative_AI_Foundation_Models_and_Platforms.pdf  
+
+---
+
+
 
 ## Author
 **Tnisha**
